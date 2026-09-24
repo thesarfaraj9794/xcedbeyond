@@ -1,0 +1,6 @@
+{
+  "name": "Xceed Beyond",
+  "description": "Enterprise strategic advisory, digital transformation, and breakthrough innovation platform for forward-looking leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
